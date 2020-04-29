@@ -1,2 +1,2 @@
 # Named-Data-Networking
-Named Data Networking related projects, demos and protocals
+A novel Named Data Networking synchronize Protcal in C++
